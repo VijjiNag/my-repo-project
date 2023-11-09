@@ -1,0 +1,24 @@
+.most-starred-repost-container {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+.logo {
+  width: 150px;
+}
+.head {
+  font-family: roboto;
+  margin-left: 10px;
+  font-size: 50px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.list_container {
+  list-style-type: none;
+}
